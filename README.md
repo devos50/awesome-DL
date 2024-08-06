@@ -34,4 +34,5 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Decentralized learning in healthcare: a review of emerging techniques | Simon Fraser University | IEEE Access | 2023 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10141615)] |
+| Decentralized Federated Learning: Fundamentals, State of the Art, Frameworks, Trends, and Challenges | University of Murcia, Armasuisse, University of Zurich | IEEE Communications Surveys & Tutorials | 2023 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10251949)] |
 | Decentralized federated learning: A survey and perspective | Purdue University, Lehigh University, University of Illinois | IEEE Internet of Things Journal | 2024 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10542323)] |
