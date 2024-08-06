@@ -21,7 +21,8 @@ TODO
 |Name | Affiliation | Paper |
 | ------------------------------------------------------------ | --- | ---------------------------------- |
 | [DecentralizePy](https://github.com/sacs-epfl/decentralizepy) [![Stars](https://img.shields.io/github/stars/sacs-epfl/decentralizepy.svg?color=red)](https://github.com/sacs-epfl/decentralizepy/stargazers) | EPFL | [Decentralized Learning Made Easy with DecentralizePy](https://dl.acm.org/doi/pdf/10.1145/3578356.3592587) |
-| [Decentralized Learning Simulator](https://github.com/sacs-epfl/decentralized-learning-simulator) [![Stars](https://img.shields.io/github/stars/sacs-epfl/decentralized-learning-simulator.svg?color=red)](https://github.com/sacs-epfl/decentralized-learning-simulator/stargazers) | EPFL | | 
+| [Decentralized Learning Simulator](https://github.com/sacs-epfl/decentralized-learning-simulator) [![Stars](https://img.shields.io/github/stars/sacs-epfl/decentralized-learning-simulator.svg?color=red)](https://github.com/sacs-epfl/decentralized-learning-simulator/stargazers) | EPFL | |
+| [Hivemind](https://github.com/learning-at-home/hivemind) [![Stars](https://img.shields.io/github/stars/learning-at-home/hivemind.svg?color=red)](https://github.com/learning-at-home/hivemind/stargazers) | Learning@Home Team | [Towards Crowdsourced Training of Large Neural Networks using Decentralized Mixture-of-Experts](https://proceedings.neurips.cc/paper_files/paper/2020/hash/25ddc0f8c9d3e22e03d3076f98d83cb2-Abstract.html) | 
 
 # Surveys
 
