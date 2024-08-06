@@ -16,11 +16,26 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 
 # Papers
 
-### Decentralized Learning in IoT/Edge/Resource-Constrained settings
+### IoT/Edge
 
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Decentralized and collaborative machine learning framework for IoT | Universidade de Vigo, GRADIANT | Computer Networks | 2024 | [[PUB](https://www.sciencedirect.com/science/article/pii/S1389128623005820)] |
+
+### Dealing with non-IID data
+
+|Title | Affiliation | Venue | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| The Non-IID Data Quagmire of Decentralized Machine Learning | Microsoft Research, Carnegie Mellon University, ETH Zurich | ICML | 2020 | [[PUB](http://proceedings.mlr.press/v119/hsieh20a.html)] |
+| Cross-Gradient Aggregation for Decentralized Learning from Non-IID Data | Iowa State University, Johnson Control, New York University | ICML | 2021 | [[PUB](http://proceedings.mlr.press/v139/esfandiari21a.html)] [[CODE](https://github.com/yasesf93/CrossGradientAggregation)] |
+| RelaySum for Decentralized Deep Learning on Heterogeneous Data | EPFL | NeurIPS | 2021 | [[PUB](https://proceedings.neurips.cc/paper/2021/hash/ebbdfea212e3a756a1fded7b35578525-Abstract.html)] |
+
+### Topology Management
+
+|Title | Affiliation | Venue | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Beyond spectral gap: the role of the topology in decentralized learning | EPFL | NeurIPS | 2022 | [[PUB](https://proceedings.neurips.cc/paper_files/paper/2022/hash/61162d94822d468ee6e92803340f2040-Abstract-Conference.html)] |
+| Epidemic Learning: Boosting Decentralized Learning with Randomized Communication | EPFL | NeurIPS | 2023 | [[PUB](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7172e147d916eef4cb1eb30016ce725f-Abstract-Conference.html)] |
 
 ### Personalization
 
@@ -35,16 +50,26 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Personalized Collaborative Fine-Tuning for On-Device Large Language Models | EPFL | arXiv | 2024 | [[PUB](https://arxiv.org/abs/2404.09753)] |
 
-### Blockchain-based Decentralized Learning
+### Blockchain-based Solutions
 
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Tangle Ledger for Decentralized Learning | University of Potsdam | IPDPS Workshops | 2020 | [[PUB](https://ieeexplore.ieee.org/abstract/document/9150433)] |
 | Communication-efficient and Scalable Decentralized Federated Edge Learning | NTU | IJCAI | 2021 | [[PUB](https://www.ijcai.org/proceedings/2021/0720.pdf)] |
+| Privacy-preserving Decentralized Learning Framework for Healthcare System | IIT | ACM Transactions on Multimedia Computing, Communications, and Applications | 2021 | [[PUB](https://dl.acm.org/doi/abs/10.1145/3426474)] |
+| SPDL: A Blockchain-Enabled Secure and Privacy-Preserving Decentralized Learning System | Shandong University | IEEE Transactions on Computers | 2022 | [[PUB](https://ieeexplore.ieee.org/abstract/document/9761745)] |
+
+### Asynchronous Learning
+
+|Title | Affiliation | Venue | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Asynchrounous decentralized learning of a neural network | KTH | ICASSP | 2020 | [[PUB](https://ieeexplore.ieee.org/abstract/document/9053996)] |
 
 ### Byzantine Robustness
 
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| ByRDiE: Byzantine-Resilient Distributed Coordinate Descent for Decentralized Learning | Rutgers University | IEEE Transactions on Signal and Information Processing over Networks | 2019 | [[PUB](https://ieeexplore.ieee.org/abstract/document/8759887)] |
 | Byzantine-Robust Decentralized Learning via Remove-then-Clip Aggregation | Columbia University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30173)] |
 
 ### Reinforcement Learning
@@ -62,13 +87,19 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Fully Decentralized Federated Learning | University of California San Diego | NeurIPS Workshop | 2018 | [[PUB](http://bayesiandeeplearning.org/2018/papers/140.pdf)] |
+| COLA: Decentralized Linear Learning | EPFL, ETH Zurich | NeurIPS | 2018 | [[PUB](https://proceedings.neurips.cc/paper/2018/file/05a70454516ecd9194c293b0e415777f-Paper.pdf)] |
+| Towards More Efficient Stochastic Decentralized Learning: Faster Convergence and Sparse Communication | Zhejiang University, Tencent AI Lab, MIT, South China University of Technology | ICML | 2018 | [[PUB](http://proceedings.mlr.press/v80/shen18a.html)] |
 | Communication-Efficient Frank-Wolfe Algorithm for Nonconvex Decentralized Distributed Learning | University of Pittsburgh | AAAI | 2021 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17246)] |
+| Decentralized Learning: Theoretical Optimality and Practical Improvements | Cornell University | Journal of Machine Learning Research | 2023 | [[PUB](https://www.jmlr.org/papers/v24/22-0044.html)] |
+| On Generalization of Decentralized Learning with Separable Data | University of California, University of British Columbia | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/taheri23a.html)] |
 
 ### Other
 
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Efficient Protocol for Collaborative Dictionary Learning in Decentralized Networks | IBM Research, Keio University | IJCAI | 2019 | [[PUB](https://www.ijcai.org/proceedings/2019/0359.pdf)] |
+| Decentralized learning works: An empirical comparison of gossip learning and federated learning | University of Szeged | Journal of Parallel and Distributed Computing | 2021 | [[PUB](https://www.sciencedirect.com/science/article/pii/S0743731520303890)] |
 | SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data | University of Southern California | AAAI | 2022 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/20643)] |
 | Meta learning in decentralized neural networks: towards more general AI | The University of Tokyo RIKEN | AAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26929)] |
 
