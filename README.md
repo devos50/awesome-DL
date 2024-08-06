@@ -29,3 +29,4 @@ TODO
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Decentralized learning in healthcare: a review of emerging techniques | Simon Fraser University | IEEE Access | 2023 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10141615)] |
+| Decentralized federated learning: A survey and perspective | Purdue University, Lehigh University, University of Illinois | IEEE Internet of Things Journal | 2024 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10542323)] |
