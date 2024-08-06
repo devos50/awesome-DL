@@ -12,14 +12,23 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 
 # Papers
 
-**categories**
-
 ### Decentralized Learning in IoT/Edge/Resource-Constrained settings
 
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Decentralized and collaborative machine learning framework for IoT | Universidade de Vigo, GRADIANT | Computer Networks | 2024 | [[PUB](https://www.sciencedirect.com/science/article/pii/S1389128623005820)] |
 
+### Personalization
+
+|Title | Affiliation | Venue | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Learning to Collaborate in Decentralized Learning of Personalized Models | University of Science and Technology of China, University of Washington, University of Maryland, JD Explore Academy | CVPR | 2022 | [[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Learning_To_Collaborate_in_Decentralized_Learning_of_Personalized_Models_CVPR_2022_paper.html)]
+
+### Decentralized Fine-Tuning
+
+|Title | Affiliation | Venue | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Personalized Collaborative Fine-Tuning for On-Device Large Language Models | EPFL | arXiv | 2024 | [[PUB](https://arxiv.org/abs/2404.09753)] |
 
 # Frameworks
 
