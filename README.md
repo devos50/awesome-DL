@@ -14,7 +14,12 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 
 **categories**
 
-TODO
+### Decentralized Learning in IoT/Edge/Resource-Constrained settings
+
+|Title | Affiliation | Venue | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Decentralized and collaborative machine learning framework for IoT | Universidade de Vigo, GRADIANT | Computer Networks | 2024 | [[PUB](https://www.sciencedirect.com/science/article/pii/S1389128623005820)] |
+
 
 # Frameworks
 
