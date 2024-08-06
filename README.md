@@ -18,9 +18,10 @@ TODO
 
 # Frameworks
 
-|Name | Paper |
-| ------------------------------------------------------------ | ---------------------------------- |
-| [DecentralizePy](https://github.com/sacs-epfl/decentralizepy) | [Decentralized Learning Made Easy with DecentralizePy](https://dl.acm.org/doi/pdf/10.1145/3578356.3592587) | 
+|Name | Affiliation | Paper |
+| ------------------------------------------------------------ | --- | ---------------------------------- |
+| [DecentralizePy](https://github.com/sacs-epfl/decentralizepy) [![Stars](https://img.shields.io/github/stars/sacs-epfl/decentralizepy.svg?color=red)](https://github.com/sacs-epfl/decentralizepy/stargazers) | EPFL | [Decentralized Learning Made Easy with DecentralizePy](https://dl.acm.org/doi/pdf/10.1145/3578356.3592587) |
+| [Decentralized Learning Simulator](https://github.com/sacs-epfl/decentralized-learning-simulator) [![Stars](https://img.shields.io/github/stars/sacs-epfl/decentralized-learning-simulator.svg?color=red)](https://github.com/sacs-epfl/decentralized-learning-simulator/stargazers) | EPFL | | 
 
 # Surveys
 
