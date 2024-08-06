@@ -1,5 +1,9 @@
 # Decentralized Learning Resources
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+---
+
 **Table of Contents**
 
 - [Papers](#papers)
