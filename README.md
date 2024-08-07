@@ -64,6 +64,7 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Asynchrounous decentralized learning of a neural network | KTH | ICASSP | 2020 | [[PUB](https://ieeexplore.ieee.org/abstract/document/9053996)] |
+| Decentralized federated learning with asynchronous parameter sharing for large-scale iot networks | Sun Yat-sen University, Shenzhen Institute of Advanced Technology, The University of Hong Kong | IEEE IoT Journal | 2024 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10400772)] |
 
 ### Byzantine Robustness
 
