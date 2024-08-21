@@ -58,6 +58,7 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | Communication-efficient and Scalable Decentralized Federated Edge Learning | NTU | IJCAI | 2021 | [[PUB](https://www.ijcai.org/proceedings/2021/0720.pdf)] |
 | Privacy-preserving Decentralized Learning Framework for Healthcare System | IIT | ACM Transactions on Multimedia Computing, Communications, and Applications | 2021 | [[PUB](https://dl.acm.org/doi/abs/10.1145/3426474)] |
 | SPDL: A Blockchain-Enabled Secure and Privacy-Preserving Decentralized Learning System | Shandong University | IEEE Transactions on Computers | 2022 | [[PUB](https://ieeexplore.ieee.org/abstract/document/9761745)] |
+| A Semi-Asynchronous Decentralized Federated Learning Framework via Tree-Graph Blockchain | Hunan University, Jilin University, Tsinghua University | INFOCOM | 2024 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10621425)] |
 
 ### Asynchronous Learning
 
@@ -73,6 +74,12 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | ByRDiE: Byzantine-Resilient Distributed Coordinate Descent for Decentralized Learning | Rutgers University | IEEE Transactions on Signal and Information Processing over Networks | 2019 | [[PUB](https://ieeexplore.ieee.org/abstract/document/8759887)] |
 | Byzantine-Robust Decentralized Learning via Remove-then-Clip Aggregation | Columbia University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30173)] |
 
+### Free-rider Detection and Prevention
+
+|Title | Affiliation | Venue | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Decentralized Federated Learning Under Free-riders: Credibility Analysis | National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China | PerAI-6G (INFOCOM Workshop) | 2024 | [[PUB](https://ieeexplore.ieee.org/abstract/document/10620869)] |
+
 ### Reinforcement Learning
 
 |Title | Affiliation | Venue | Year | Materials|
@@ -83,6 +90,7 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | EMVLight: A decentralized reinforcement learning framework for efficient passage of emergency vehicles | New York University, Siemens | AAAI | 2022 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/20383)] |
 | Online tuning for offline decentralized multi-agent reinforcement learning | Peking University | AAAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/25973)] |
 | DM²: Decentralized Multi-Agent Reinforcement Learning via Distribution Matching | The University of Texas, SparkCognition | AAAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26382)] |
+| BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency | Shandong University, George Washington University, Tsinghua University, Georgia State University | INFOCOM | 2024 | [[PUB](https://ieeexplore.ieee.org/abstract/document/1062134)] |
 
 ### Optimization
 
