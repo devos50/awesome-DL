@@ -21,6 +21,7 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 |Title | Affiliation | Venue | Year | Materials|
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Decentralized and collaborative machine learning framework for IoT | Universidade de Vigo, GRADIANT | Computer Networks | 2024 | [[PUB](https://www.sciencedirect.com/science/article/pii/S1389128623005820)] |
+| Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning | University of Nevada, Reno | IEEE International Conference on Distributed Computing Systems (ICDCS) | 2024 | [[ICDCS]((https://ieeexplore.ieee.org/document/10631026))]
 
 ### Dealing with non-IID data
 
