@@ -30,6 +30,7 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | The Non-IID Data Quagmire of Decentralized Machine Learning | Microsoft Research, Carnegie Mellon University, ETH Zurich | ICML | 2020 | [[PUB](http://proceedings.mlr.press/v119/hsieh20a.html)] |
 | Cross-Gradient Aggregation for Decentralized Learning from Non-IID Data | Iowa State University, Johnson Control, New York University | ICML | 2021 | [[PUB](http://proceedings.mlr.press/v139/esfandiari21a.html)] [[CODE](https://github.com/yasesf93/CrossGradientAggregation)] |
 | RelaySum for Decentralized Deep Learning on Heterogeneous Data | EPFL | NeurIPS | 2021 | [[PUB](https://proceedings.neurips.cc/paper/2021/hash/ebbdfea212e3a756a1fded7b35578525-Abstract.html)] |
+| Overcoming Data and Model heterogeneities in Decentralized Federated Learning via Synthetic Anchors | The University of British Columbia, Vector Institute, Indian Institute of Technology, Meta | ICML | 2024 | [[PUB](https://openreview.net/forum?id=mNzkumTSVL)] |
 
 ### Topology Management
 
@@ -74,6 +75,9 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
 | ByRDiE: Byzantine-Resilient Distributed Coordinate Descent for Decentralized Learning | Rutgers University | IEEE Transactions on Signal and Information Processing over Networks | 2019 | [[PUB](https://ieeexplore.ieee.org/abstract/document/8759887)] |
 | Byzantine-Robust Decentralized Learning via Remove-then-Clip Aggregation | Columbia University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30173)] |
+| The Privacy Power of Correlated Noise in Decentralized Learning | EPFL | ICML | 2024 | [[PUB](https://openreview.net/forum?id=5JrlywYHRi)] |
+| Differentially Private Decentralized Learning with Random Walks | INRIA, Rutgers University | ICML | 2024 | [[PUB](https://openreview.net/forum?id=k2dVVIWWho)] |
+| Privacy Attacks in Decentralized Learning | EPFL, Universite de Lille, Inria | ICML | 2024 | [[PUB](https://openreview.net/forum?id=mggc3oYHy4)] |
 
 ### Free-rider Detection and Prevention
 
@@ -103,6 +107,7 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | Communication-Efficient Frank-Wolfe Algorithm for Nonconvex Decentralized Distributed Learning | University of Pittsburgh | AAAI | 2021 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17246)] |
 | Decentralized Learning: Theoretical Optimality and Practical Improvements | Cornell University | Journal of Machine Learning Research | 2023 | [[PUB](https://www.jmlr.org/papers/v24/22-0044.html)] |
 | On Generalization of Decentralized Learning with Separable Data | University of California, University of British Columbia | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/taheri23a.html)] |
+| Faster Adaptive Decentralized Learning Algorithms | Nanjing University of Aeronautics and Astronautics, MIIT Key Laboratory of Pattern Analysis and Machine Intelligence | ICML | 2024 | [[PUB](https://openreview.net/forum?id=Dwc0RwiNI5)] |
 
 ### Other
 
