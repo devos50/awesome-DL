@@ -97,6 +97,7 @@ Feel free to suggest other resources by opening an [issue](https://github.com/de
 | DM²: Decentralized Multi-Agent Reinforcement Learning via Distribution Matching | The University of Texas, SparkCognition | AAAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26382)] |
 | BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency | Shandong University, George Washington University, Tsinghua University, Georgia State University | INFOCOM | 2024 | [[PUB](https://ieeexplore.ieee.org/abstract/document/1062134)] |
 | Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning | University of Nevada, Reno | IEEE ICDCS | 2024 | [[PUB](https://doi.org/10.1109/ICDCS60910.2024.00062)] |
+| Sustainable Smart Grid Resilience and Renewable Integration Using Multi-Agent Reinforcement Learning | University of Nevada, Reno, University of Central Florida | MDPI Sustainability | 2026 | [[PUB](https://www.mdpi.com/2071-1050/18/20/10574)] [[CODE](https://github.com/mahmoudsajjadi/Smart-Grid-Resilience-MARL)] |
 
 ### Optimization
 
